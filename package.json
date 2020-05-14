@@ -1,11 +1,12 @@
 {
- "name": "Bootstrap-documentation-template",
+  "name": "Bootstrap-documentation-template",
   "version": "1.0.0",
   "description": "Bootstrap documentation template",
   "main": "index.js",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2",
     "bootstrap": "^4.3.1",
+    "gulp-cli": "^2.2.0",
     "jquery": "^3.4.1",
     "malihu-custom-scrollbar-plugin": "^3.1.5",
     "popper.js": "^1.15.0"
@@ -22,13 +23,13 @@
   },
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/ShareBootstrap/Bootstrap-documentation-template.git"
+    "url": "git+https://github.com/ShareBootstrap/Bootstrap-documentation-template.git"
   },
   "keywords": [],
   "author": "ShareBootstrap",
   "license": "MIT",
   "bugs": {
-      "url": "https://github.com/ShareBootstrap/Bootstrap-documentation-template/issues"
+    "url": "https://github.com/ShareBootstrap/Bootstrap-documentation-template/issues"
   },
   "homepage": "https://sharebootstrap.com"
 }
